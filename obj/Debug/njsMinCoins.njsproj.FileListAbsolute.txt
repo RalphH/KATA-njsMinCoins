@@ -1,0 +1,3 @@
+C:\Users\rheadldev\source\repos\njsMinCoins\obj\Debug\njsMinCoins.njsprojAssemblyReference.cache
+C:\Users\rheadldev\source\repos\njsMinCoins\obj\Debug\njsMinCoins.njsproj.CoreCompileInputs.cache
+C:\Users\rheadldev\source\repos\njsMinCoins\bin\Microsoft.NodejsTools.WebRole.dll

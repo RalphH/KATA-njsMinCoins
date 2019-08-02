@@ -1,0 +1,16 @@
+{
+  "name": "njs-min-coins",
+  "version": "0.0.0",
+  "description": "njsMinCoins",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
